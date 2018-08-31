@@ -1,0 +1,8 @@
+C:\proyectos\DatabasesBenchmark\SQLServerBenchmark\bin\Debug\SQLServerBenchmark.dll
+C:\proyectos\DatabasesBenchmark\SQLServerBenchmark\bin\Debug\SQLServerBenchmark.pdb
+C:\proyectos\DatabasesBenchmark\SQLServerBenchmark\obj\Debug\SQLServerBenchmark.csprojResolveAssemblyReference.cache
+C:\proyectos\DatabasesBenchmark\SQLServerBenchmark\obj\Debug\SQLServerBenchmark.csproj.CoreCompileInputs.cache
+C:\proyectos\DatabasesBenchmark\SQLServerBenchmark\obj\Debug\SQLServerBenchmark.dll
+C:\proyectos\DatabasesBenchmark\SQLServerBenchmark\obj\Debug\SQLServerBenchmark.pdb
+C:\proyectos\DatabasesBenchmark\SQLServerBenchmark\bin\Debug\DatabaseModel.dll
+C:\proyectos\DatabasesBenchmark\SQLServerBenchmark\bin\Debug\DatabaseModel.pdb

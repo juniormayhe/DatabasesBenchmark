@@ -1,0 +1,7 @@
+TaxiRed.Web.EstadosDeServicio2Columnas/Bin/
+TaxiRed.Utils/obj/
+TaxiRed.Utils/bin/
+packages/
+.vs/
+ServiceState.Web/bin
+ServiceState.Web/obj

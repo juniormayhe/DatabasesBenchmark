@@ -1,0 +1,5 @@
+C:\proyectos\DatabasesBenchmark\DatabaseModel\obj\Debug\DatabaseModel.csproj.CoreCompileInputs.cache
+C:\proyectos\DatabasesBenchmark\DatabaseModel\bin\Debug\DatabaseModel.dll
+C:\proyectos\DatabasesBenchmark\DatabaseModel\bin\Debug\DatabaseModel.pdb
+C:\proyectos\DatabasesBenchmark\DatabaseModel\obj\Debug\DatabaseModel.dll
+C:\proyectos\DatabasesBenchmark\DatabaseModel\obj\Debug\DatabaseModel.pdb

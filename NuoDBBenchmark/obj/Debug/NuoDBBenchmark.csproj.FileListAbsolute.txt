@@ -1,0 +1,10 @@
+C:\proyectos\DatabasesBenchmark\NuoDBBenchmark\bin\Debug\NuoDBBenchmark.dll.config
+C:\proyectos\DatabasesBenchmark\NuoDBBenchmark\bin\Debug\NuoDBBenchmark.dll
+C:\proyectos\DatabasesBenchmark\NuoDBBenchmark\bin\Debug\NuoDBBenchmark.pdb
+C:\proyectos\DatabasesBenchmark\NuoDBBenchmark\bin\Debug\DatabaseModel.dll
+C:\proyectos\DatabasesBenchmark\NuoDBBenchmark\bin\Debug\NuoDb.Data.Client.dll
+C:\proyectos\DatabasesBenchmark\NuoDBBenchmark\bin\Debug\DatabaseModel.pdb
+C:\proyectos\DatabasesBenchmark\NuoDBBenchmark\obj\Debug\NuoDBBenchmark.csprojResolveAssemblyReference.cache
+C:\proyectos\DatabasesBenchmark\NuoDBBenchmark\obj\Debug\NuoDBBenchmark.csproj.CoreCompileInputs.cache
+C:\proyectos\DatabasesBenchmark\NuoDBBenchmark\obj\Debug\NuoDBBenchmark.dll
+C:\proyectos\DatabasesBenchmark\NuoDBBenchmark\obj\Debug\NuoDBBenchmark.pdb
